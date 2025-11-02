@@ -49,3 +49,7 @@ class MainApp extends StatelessWidget {
     );
   }
 }
+
+
+// LEARN ABOUT LAYOUT THEORY, 
+// TREES IN FLUTTER THAT ARE:WIDGET TREE,RENDER TREE, RENDER OBJECT TREE,
